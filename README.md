@@ -12,7 +12,7 @@ A complete, professional single-page website with an AI-powered symptom checker 
 
 ## 📑 Table of Contents
 
-- [Screenshots](#-screenshots)
+
 - [Features](#-features)
 - [Animations & Effects](#-animations--effects)
 - [Quick Start](#-quick-start)
@@ -23,11 +23,6 @@ A complete, professional single-page website with an AI-powered symptom checker 
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-![Hero Section](screenshots/hero.png)
-![Chatbot Interface](screenshots/chatbot.png)
 
 ## 🌟 Features
 
